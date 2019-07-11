@@ -261,6 +261,6 @@ Use design patterns such that it can be reused in multiple applications.
 
 * [101 Design Patterns & Tips for Developers](http://sourcemaking.com/design-patterns-and-tips)
 
-
+* Consistent Hashing and Load Balancing - https://www.acodersjourney.com/system-design-interview-consistent-hashing/
 
 
