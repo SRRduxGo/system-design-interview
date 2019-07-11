@@ -263,4 +263,6 @@ Use design patterns such that it can be reused in multiple applications.
 
 * Consistent Hashing and Load Balancing - https://www.acodersjourney.com/system-design-interview-consistent-hashing/
 
+* http://www.aosabook.org/en/
+
 
